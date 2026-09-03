@@ -66,3 +66,39 @@
 .motion-archive-link{border:1px solid var(--line);border-radius:14px;padding:18px;display:flex;justify-content:space-between;align-items:center;font-size:12px;transition:.25s var(--ease)}
 .motion-archive-link:hover{background:var(--ink);color:#fff;border-color:var(--ink)}
 @media(max-width:900px){.motion-card,.motion-card.featured{grid-column:span 12}.motion-archive-links{grid-template-columns:1fr}}
+
+/* V5 — compact supporting-work edit */
+@media (min-width:1101px){
+  .feature-grid{grid-template-columns:repeat(12,1fr);gap:14px}
+  .feature-card,
+  .feature-card:nth-child(3n){
+    grid-column:span 4;
+    min-height:0;
+    height:310px;
+    border-radius:15px;
+  }
+  .feature-overlay{padding:20px}
+  .feature-overlay h3{font-size:clamp(22px,2vw,31px);margin-top:4px}
+  .feature-overlay small{font-size:9px;letter-spacing:.13em}
+}
+@media (min-width:901px) and (max-width:1100px){
+  .feature-card,
+  .feature-card:nth-child(3n){
+    grid-column:span 6;
+    min-height:0;
+    height:300px;
+  }
+}
+@media (max-width:900px){
+  .feature-card,
+  .feature-card:nth-child(3n){
+    min-height:0;
+    height:390px;
+  }
+}
+@media (max-width:560px){
+  .feature-card,
+  .feature-card:nth-child(3n){height:330px}
+  .feature-overlay{padding:20px}
+  .feature-overlay h3{font-size:28px}
+}
