@@ -49,11 +49,6 @@
     "jamaica": 1,
     "al-hamad": 3
   },
-  "legacy_motion": [
-    "https://kozoo7.github.io/my-portfolio/motion-infographic.html",
-    "https://kozoo7.github.io/my-portfolio/logo-animation.html",
-    "https://kozoo7.github.io/my-portfolio/vfx-3d.html"
-  ],
   "playing_cards": {
     "project": "Cedars Playing Cards",
     "page": "playing-cards.html",
@@ -63,5 +58,6 @@
       "https://wjplayingcard.com/wp-content/uploads/2024/08/Review-Of-Cedars-Playing-Cards.webp"
     ],
     "drive_source_removed_from_public_site": true
-  }
+  },
+  "public_site_note": "Animation and video work intentionally excluded; shared separately on request."
 }
