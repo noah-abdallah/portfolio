@@ -1,0 +1,67 @@
+{
+  "featured": [
+    "asas",
+    "trufella",
+    "veranova",
+    "cafe-dor",
+    "sahel-sanabel",
+    "foron-al-mashi",
+    "double-dare",
+    "safe-tire"
+  ],
+  "archive": [
+    "eurika",
+    "tend",
+    "asleh",
+    "protection-plus",
+    "agave",
+    "dmd",
+    "beautiful-mona",
+    "buildate",
+    "jamah",
+    "viola",
+    "qalaa",
+    "millinia",
+    "jamaica",
+    "al-hamad"
+  ],
+  "assets": {
+    "asas": 8,
+    "trufella": 8,
+    "veranova": 9,
+    "cafe-dor": 8,
+    "sahel-sanabel": 8,
+    "foron-al-mashi": 5,
+    "double-dare": 8,
+    "safe-tire": 8,
+    "eurika": 3,
+    "tend": 3,
+    "asleh": 3,
+    "protection-plus": 4,
+    "agave": 3,
+    "dmd": 3,
+    "beautiful-mona": 3,
+    "buildate": 2,
+    "jamah": 3,
+    "viola": 3,
+    "qalaa": 3,
+    "millinia": 2,
+    "jamaica": 1,
+    "al-hamad": 3
+  },
+  "legacy_motion": [
+    "https://kozoo7.github.io/my-portfolio/motion-infographic.html",
+    "https://kozoo7.github.io/my-portfolio/logo-animation.html",
+    "https://kozoo7.github.io/my-portfolio/vfx-3d.html"
+  ],
+  "playing_cards": {
+    "project": "Cedars Playing Cards",
+    "page": "playing-cards.html",
+    "kickstarter": "https://www.kickstarter.com/projects/zpcc/cedars-playing-cards-relaunch?ref=nav_search&result=project&term=cedars%20playing%20card&total_hits=3",
+    "website_images": [
+      "https://www.playingcards.net/assets/images/Premium%20Gilded%20Cedar%20Playing%20Cards%205.png",
+      "https://wjplayingcard.com/wp-content/uploads/2024/08/Review-Of-Cedars-Playing-Cards.webp"
+    ],
+    "drive_source_removed_from_public_site": true
+  }
+}
